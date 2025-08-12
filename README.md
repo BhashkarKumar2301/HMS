@@ -15,19 +15,13 @@ This system allows adding, editing, searching, deleting, and displaying patient 
 
 
 ---
-
 ## 🖼 Screenshots
 
 ### Main Menu
-![Main Menu](assets/dashboard.png)
+![Main Menu](dashboard.png)
 
 ### Display Records
-![Display Records](assets/display_record.png)
+![Display Records](display_record.png)
 
 ### Delete Record
-![Delete Record](assets/delete_record.png)
-
----
-
-```bash
-g++ "Hospital Management System.cpp" -o HospitalManagementSystem
+![Delete Record](delete_record.png)
